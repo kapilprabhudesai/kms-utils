@@ -15,5 +15,14 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1170.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilprabhudesai/kms-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kapilprabhudesai/kms-utils/issues"
+  },
+  "homepage": "https://github.com/kapilprabhudesai/kms-utils#readme"
 }
