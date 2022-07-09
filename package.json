@@ -1,0 +1,19 @@
+{
+  "name": "kms-utils",
+  "version": "1.0.0",
+  "description": "KMS encrypt and decrypt strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "KMS",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "Kapil Prabhudessai",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1170.0"
+  }
+}
