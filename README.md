@@ -1,8 +1,8 @@
-# kms-utils
+## How to install?
 
-# How to install?
-
-# npm i kms-utils
+```
+npm i kms-utils
+```
 
 ## How to use in project?
 
