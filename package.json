@@ -1,6 +1,6 @@
 {
   "name": "kms-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "KMS encrypt and decrypt strings",
   "main": "index.js",
   "scripts": {
