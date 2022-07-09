@@ -29,7 +29,7 @@ await kmsUtilsObject.decrypt('ENCRYPTED_STRING');
 const KmsUtils = require('kms-utils');
 
 const CONFIG = {region:'ap-south-1'} // Replace with actual config
-const KMS_KEY = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" // Replace with actual config
+const KMS_KEY = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" // Replace with actual KMS key
 const kmsUtilsObject = new KmsUtils(KMS_KEY, CONFIG);
 
 (async () =>  {
